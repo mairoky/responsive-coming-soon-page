@@ -1,0 +1,99 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+    body {
+        font-size: 22px;
+    }
+
+    #home-heading-1 {
+        font-size: 32px;
+    }
+
+    #home-heading-2 {
+        font-size: 48px;
+    }
+
+    .hr-line {
+        border: 4px inset #D90429;
+    }
+
+    ul.social-icons li a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    ul.social-icons li a i {
+        font-size: 17px;
+    }
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body {
+        font-size: 26px;
+    }
+
+    #home-heading-1 {
+        font-size: 38px;
+    }
+
+    #home-heading-2 {
+        font-size: 54px;
+    }
+
+    .hr-line {
+        border: 6px inset #D90429;
+    }
+
+    ul.social-icons li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    ul.social-icons li a i {
+        font-size: 20px;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    body {
+        font-size: 28px;
+    }
+
+    #home-heading-1 {
+        font-size: 42px;
+    }
+
+    #home-heading-2 {
+        font-size: 58px;
+    }
+
+    .hr-line {
+        border: 8px inset #D90429;
+    }
+
+    ul.social-icons li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    ul.social-icons li a i {
+        font-size: 20px;
+    }
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/*Extra Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {}

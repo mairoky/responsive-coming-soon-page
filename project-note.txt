@@ -1,0 +1,7 @@
+bootstrap version: 5.0.0 beta 2
+
+google fonts --->
+	Enriqueta //font-family: 'Enriqueta', serif;
+	Carme //font-family: 'Carme', sans-serif;
+	Nunito
+	Aleo //font-family: 'Aleo', serif;
